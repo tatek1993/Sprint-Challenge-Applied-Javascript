@@ -36,6 +36,6 @@ Header('MARCH 28, 2019', 'Lambda Times', '98°');
 const headerContainer = document.querySelector('.header-container');
 
 headerContainer.append(Header('MARCH 28, 2019', 'Lambda Times', '98°'));
-console.log()
+
 
 
